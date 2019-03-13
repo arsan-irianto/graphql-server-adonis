@@ -1,6 +1,6 @@
-# GraphQL Server with AdonisJS + Postgre
+# GraphQL Server with AdonisJS + PostgreSQL
 
-This Project Implement Graphql Server with AdonisJS + Postgre Database
+This Project Implement Graphql Server with AdonisJS + PostgreSQL Database
 
 ## Setup
 
